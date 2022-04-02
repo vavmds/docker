@@ -1,10 +1,7 @@
 #-------------------------------------------------
 # Introduction to Docker by Denis Astahov
 
-
-Install Docker on Ubuntu 18.04
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
+§§§
 sudo apt update
 sudo apt install apt-transport-https
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
